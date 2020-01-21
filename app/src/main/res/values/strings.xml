@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Plural</string>
+
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">%d song found.</item>
+        <item quantity="other">%d songs found.</item>
+    </plurals>
+
+    <plurals name="timeOfTheDay">
+        <item quantity="zero">Good morning Brad</item>
+        <item quantity="one">Good afternoon Brad</item>
+        <item quantity="two">Good evening Brad</item>
+        <item quantity="other">Good night Brad</item>
+    </plurals>
+
+</resources>
